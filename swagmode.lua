@@ -1283,7 +1283,7 @@ end
 
 coroutine.wrap(FUVO_fake_script)()
 --]]
-imiecredits.Text = "Credits:\nby: yahyeee#7643\nUI by: imie#0039"
+imiecredits.Text = "Credits:\nby: 1cey#0808\nUI Real"
 
 --[[
 local function PXXAONR_fake_script() -- UIGradient.LocalScript 
