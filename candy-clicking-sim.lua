@@ -84,3 +84,4 @@ local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("Credits")
 
 CreditsSection:NewLabel("Made by 1cey#0808")
+end)
